@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Lonely Planet China</dc:title>
+    <dc:creator>Lonely Planet</dc:creator>
+    <dc:publisher>Lonely Planet</dc:publisher>
+    <dc:language>en-US</dc:language>
+    <dc:identifier id="bookid">1420710602205</dc:identifier>
+    <meta name="cover" content="my_cover_image"/>
+    <meta name="Sigil version" content="2.6.0"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2025-07-30</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="ref-00-cover" href="00-cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-00a-inside-front-cover" href="00a-inside-front-cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-00b-how-to-use-this-ebook" href="00b-how-to-use-this-ebook.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-00c-sampler" href="00c-sampler.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-00d-country-map" href="00d-country-map.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-00d-table-of-contents" href="00d-table-of-contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-01-welcome-to-chi16" href="ebook-01-welcome-to-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-02-top-experiences-chi16" href="ebook-02-top-experiences-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-03-need-to-know-chi16" href="ebook-03-need-to-know-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-04-first-time-chi16" href="ebook-04-first-time-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-05-month-by-month-chi16" href="ebook-05-month-by-month-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-06-itineraries-chi16" href="ebook-06-itineraries-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-07-family-travel-chi16" href="ebook-07-family-travel-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-08-eat-drink-like-a-local-chi16" href="ebook-08-eat-drink-like-a-local-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-09-regions-at-a-glance-chi16" href="ebook-09-regions-at-a-glance-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-11-beijing-chi16" href="ebook-11-beijing-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-11-beijing-chi16_a" href="ebook-11-beijing-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-12-the-great-wall-chi16" href="ebook-12-the-great-wall-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-13-tianjin-hebei-chi16" href="ebook-13-tianjin-hebei-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-14-liaoning-chi16" href="ebook-14-liaoning-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-15-jilin-chi16" href="ebook-15-jilin-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-16-heilongjiang-chi16" href="ebook-16-heilongjiang-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-17-shandong-chi16" href="ebook-17-shandong-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-17-shandong-chi16_a" href="ebook-17-shandong-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-18-jiangsu-chi16" href="ebook-18-jiangsu-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-19-shanghai-chi16" href="ebook-19-shanghai-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-19-shanghai-chi16_a" href="ebook-19-shanghai-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-19a-essential-china-chi16" href="ebook-19a-essential-china-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-20-zhejiang-chi16" href="ebook-20-zhejiang-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-21-fujian-chi16" href="ebook-21-fujian-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-22-shanxi-chi16" href="ebook-22-shanxi-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-23-shaanxi-chi16" href="ebook-23-shaanxi-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-24-anhui-chi16" href="ebook-24-anhui-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-25-henan-chi16" href="ebook-25-henan-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-26-hubei-chi16" href="ebook-26-hubei-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-27-jiangxi-chi16" href="ebook-27-jiangxi-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-28-hunan-chi16" href="ebook-28-hunan-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-29-hong-kong-chi16" href="ebook-29-hong-kong-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-29-hong-kong-chi16_a" href="ebook-29-hong-kong-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-30-macau-chi16" href="ebook-30-macau-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-31-guangdong-chi16" href="ebook-31-guangdong-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-31-guangdong-chi16_a" href="ebook-31-guangdong-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-32-hainan-chi16" href="ebook-32-hainan-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-33-guangxi-chi16" href="ebook-33-guangxi-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-34-guizhou-chi16" href="ebook-34-guizhou-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-35-yunnan-chi16" href="ebook-35-yunnan-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-35-yunnan-chi16_a" href="ebook-35-yunnan-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-36-sichuan-chi16" href="ebook-36-sichuan-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-36-sichuan-chi16_a" href="ebook-36-sichuan-chi16_a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-37-chongqing-chi16" href="ebook-37-chongqing-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-37a-cruising-the-yangzi-chi16" href="ebook-37a-cruising-the-yangzi-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-38-xinjiang-chi16" href="ebook-38-xinjiang-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-39-gansu-chi16" href="ebook-39-gansu-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-40-ningxia-chi16" href="ebook-40-ningxia-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-41-inner-mongolia-chi16" href="ebook-41-inner-mongolia-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-42-qinghai-chi16" href="ebook-42-qinghai-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-43-tibet-chi16" href="ebook-43-tibet-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-44-understand-title-chi16" href="ebook-44-understand-title-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-45-history-chi16" href="ebook-45-history-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-46-people-of-chi16" href="ebook-46-people-of-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-47-religion-philosophy-chi16" href="ebook-47-religion-philosophy-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-48-arts-architecture-chi16" href="ebook-48-arts-architecture-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-49-landscapes-chi16" href="ebook-49-landscapes-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-50-martial-arts-chi16" href="ebook-50-martial-arts-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-52-directory-chi16" href="ebook-52-directory-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-53-transport-chi16" href="ebook-53-transport-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-54-china-by-train-chi16" href="ebook-54-china-by-train-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-55-health-chi16" href="ebook-55-health-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-56-language-chi16" href="ebook-56-language-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-57-bts-chi16" href="ebook-57-bts-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-ebook-59-our-writers-chi16" href="ebook-59-our-writers-chi16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-zzb-map-legend" href="zzb-map-legend.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-zza-generic-cross-sell" href="zza-generic-cross-sell.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ref-apple-css" href="apple.css" media-type="text/css"/>
+    <item id="ref-back-css" href="back.css" media-type="text/css"/>
+    <item id="ref-colour-css" href="colour.css" media-type="text/css"/>
+    <item id="ref-icons-css" href="icons.css" media-type="text/css"/>
+    <item id="ref-otr-css" href="otr.css" media-type="text/css"/>
+    <item id="ref-plan-css" href="plan.css" media-type="text/css"/>
+    <item id="ref-promo-css" href="promo.css" media-type="text/css"/>
+    <item id="ref-style-css" href="style.css" media-type="text/css"/>
+    <item id="ref-survive-css" href="survive.css" media-type="text/css"/>
+    <item id="ref-understand-css" href="understand.css" media-type="text/css"/>
+    <item id="ref-lpbentonsans-bold-ttf" href="LPBentonSans-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpbentonsans-italic-ttf" href="LPBentonSans-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpbentonsans-regular-ttf" href="LPBentonSans-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpbentonsanscond-bold-ttf" href="LPBentonSansCond-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpbentonsanscond-regular-ttf" href="LPBentonSansCond-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpbentonsansmedium-regular-ttf" href="LPBentonSansMedium-Regular.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpdiscicons-ttf" href="LPDiscIcons.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpicons2012-ttf" href="LPIcons2012.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpmillerdailyone-bold-ttf" href="LPMillerDailyOne-Bold.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpmillerdailyone-bolditalic-ttf" href="LPMillerDailyOne-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpmillerdailyone-italic-ttf" href="LPMillerDailyOne-Italic.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpnumerals2010-ttf" href="LPNumerals2010.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-lpmapicon2010-ttf" href="LpMapIcon2010.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-TimesNewRomanPSMT-ttf" href="TimesNewRomanPSMT.ttf" media-type="application/x-font-ttf"/>
+    <item id="ref-KhmerOS" href="KhmerOS.ttf" media-type="application/x-font-ttf"/>
+    <item id="my_cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="img1" href="images/00-colour-highlights-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img2" href="images/00-contents-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img3" href="images/03-climate-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img4" href="images/08-itin-beijing-mongolia-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img5" href="images/08-itin-big-ticket-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img6" href="images/08-itin-coastal-china-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img7" href="images/08-itin-east-southw-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img8" href="images/08-itin-northeast-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img9" href="images/08-itin-northern-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img10" href="images/08-itin-qinghai-sichuan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img11" href="images/08-itin-silkroad-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img12" href="images/08-itin-southwest-china-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img13" href="images/08-itin-tibet-fringes-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img14" href="images/08-itin-yangzi-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img15" href="images/08-off-beaten-track-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img16" href="images/09-yangzi-river-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img17" href="images/1048-1.jpg" media-type="image/jpeg"/>
+    <item id="img18" href="images/1049-1.jpg" media-type="image/jpeg"/>
+    <item id="img19" href="images/1050-1.jpg" media-type="image/jpeg"/>
+    <item id="img20" href="images/1051-1.jpg" media-type="image/jpeg"/>
+    <item id="img21" href="images/1052-1.jpg" media-type="image/jpeg"/>
+    <item id="img22" href="images/1053-1.jpg" media-type="image/jpeg"/>
+    <item id="img23" href="images/1054-1.jpg" media-type="image/jpeg"/>
+    <item id="img24" href="images/1055-1.jpg" media-type="image/jpeg"/>
+    <item id="img25" href="images/1056-1.jpg" media-type="image/jpeg"/>
+    <item id="img26" href="images/1057-1.jpg" media-type="image/jpeg"/>
+    <item id="img27" href="images/1058-1.jpg" media-type="image/jpeg"/>
+    <item id="img28" href="images/13-beihai-park-xicheng-nth-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img29" href="images/13-beijing-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img30" href="images/13-beijing-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img32" href="images/13-dashilar-xicheng-sth-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img33" href="images/13-dongcheng-central-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img34" href="images/13-drum-tower-dongcheng-nth-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img35" href="images/13-forbidden-city-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img36" href="images/13-nanluogu-xiang-wt-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img37" href="images/13-sanlitun-chaoyang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img38" href="images/13-summer-palace-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img39" href="images/13-temple-heaven-dongcheng-sth-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img40" href="images/13-tiananmen-square-wt-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img41" href="images/14-great-wall-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img42" href="images/15-chengde-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img43" href="images/15-shanhaiguan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img44" href="images/15-shijiazhuang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img45" href="images/15-tianjin-central-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img46" href="images/15-tianjin-hebei-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img47" href="images/15-tianjin-hebei-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img48" href="images/16-dalian-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img49" href="images/16-dalian-greater-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img50" href="images/16-dandong-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img51" href="images/16-liaoning-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img52" href="images/16-liaoning-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img53" href="images/16-shenyang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img54" href="images/17-changchun-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img55" href="images/17-jilin-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img56" href="images/17-jilin-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img57" href="images/18-harbin-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img58" href="images/18-heilongjiang-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img59" href="images/18-heilongjiang-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img60" href="images/19-jinan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img61" href="images/19-qingdao-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img62" href="images/19-qufu-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img63" href="images/19-shandong-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img64" href="images/19-shandong-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img65" href="images/19-tai-shan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img66" href="images/19-taian-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img67" href="images/19-yantai-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img68" href="images/20-jiangsu-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img69" href="images/20-jiangsu-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img70" href="images/20-nanjing-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img71" href="images/20-suzhou-around-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img72" href="images/20-suzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img73" href="images/21-french-concession-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img74" href="images/21-pudong-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img75" href="images/21-shanghai-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img76" href="images/21-shanghai-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img77" href="images/21-shanghai-station-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img78" href="images/21-the-bund-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img79" href="images/21-west-nanjing-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img80" href="images/22-hangzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img81" href="images/22-putuoshan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img82" href="images/22-zhejiang-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img83" href="images/22-zhejiang-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img84" href="images/23-fujian-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img85" href="images/23-fujian-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img86" href="images/23-quanzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img87" href="images/23-xiamen-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img88" href="images/24-datong-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img89" href="images/24-pingyao-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img90" href="images/24-shanxi-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img91" href="images/24-shanxi-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img92" href="images/24-taiyuan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img93" href="images/24-wutai-shan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img94" href="images/25-hua-shan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img95" href="images/25-shaanxi-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img96" href="images/25-shaanxi-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img97" href="images/25-xian-around-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img98" href="images/25-xian-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img99" href="images/26-anhui-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img100" href="images/26-anhui-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img101" href="images/26-huangshan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img102" href="images/26-tunxi-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img103" href="images/27-henan-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img104" href="images/27-henan-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img105" href="images/27-kaifeng-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img106" href="images/27-luoyang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img107" href="images/27-zhengzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img108" href="images/28-hubei-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img109" href="images/28-hubei-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img110" href="images/28-wuhan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img111" href="images/29-around-wuyuan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img112" href="images/29-jiangxi-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img113" href="images/29-jiangxi-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img114" href="images/29-jingdezhen-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img115" href="images/29-nanchang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img116" href="images/30-changsha-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img117" href="images/30-fenghuang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img118" href="images/30-hunan-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img119" href="images/30-hunan-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img120" href="images/30-zhangjiajie-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img121" href="images/31-central-hong-kong-kowloon-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img122" href="images/31-hong-kong-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img123" href="images/31-hong-kong-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img124" href="images/31-hong-kong-wt-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img125" href="images/31-kowloon-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img126" href="images/31-sheung-wan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img127" href="images/31-wan-chai-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img128" href="images/31-yau-ma-tei-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img129" href="images/32-coloane-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img130" href="images/32-macau-central-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img131" href="images/32-macau-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img132" href="images/32-macau-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img133" href="images/32-macau-peninsula-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img134" href="images/32-taipa-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img135" href="images/33-chaozhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img136" href="images/33-east-guangzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img137" href="images/33-guangdong-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img138" href="images/33-guangdong-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img139" href="images/33-guangzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img140" href="images/33-luohu-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img141" href="images/33-overseas-chinese-town-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img142" href="images/33-zhaoqing-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img143" href="images/33-zhuhai-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img144" href="images/34-haikou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img145" href="images/34-hainan-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img146" href="images/34-hainan-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img147" href="images/34-sanya-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img148" href="images/35-beihai-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img149" href="images/35-guangxi-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img150" href="images/35-guangxi-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img151" href="images/35-guilin-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img152" href="images/35-li-river-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img153" href="images/35-nanning-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img154" href="images/35-yangshuo-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img155" href="images/36-anshun-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img156" href="images/36-guiyang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img157" href="images/36-guizhou-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img158" href="images/36-guizhou-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img159" href="images/36-kaili-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img160" href="images/36-zhenyuan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img161" href="images/37-dali-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img162" href="images/37-dali-erhai-lake-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img163" href="images/37-jinghong-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img164" href="images/37-kunming-around-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img165" href="images/37-kunming-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img166" href="images/37-lijiang-around-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img167" href="images/37-lijiang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img168" href="images/37-ruili-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img169" href="images/37-shangri-la-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img170" href="images/37-tengchong-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img171" href="images/37-tiger-leaping-gorge-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img172" href="images/37-xishuangbanna-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img173" href="images/37-yuanyang-rice-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img174" href="images/37-yunnan-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img175" href="images/37-yunnan-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img176" href="images/38-chengdu-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img177" href="images/38-emei-shan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img178" href="images/38-kangding-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img179" href="images/38-le-shan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img180" href="images/38-sichuan-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img181" href="images/38-sichuan-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img182" href="images/38-songpan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img183" href="images/39-chongqing-caiyuanba-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img184" href="images/39-chongqing-city-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img185" href="images/39-chongqing-jiefangbei-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img186" href="images/39-chongqing-mun-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img187" href="images/39-chongqing-mun-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img188" href="images/40-kashgar-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img189" href="images/40-urumqi-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img190" href="images/40-xinjiang-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img191" href="images/40-xinjiang-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img192" href="images/41-dunhuang-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img193" href="images/41-gansu-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img194" href="images/41-gansu-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img195" href="images/41-jiayuguan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img196" href="images/41-lanzhou-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img197" href="images/41-xiahe-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img198" href="images/42-ningxia-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img199" href="images/42-ningxia-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img200" href="images/42-yinchuan-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img201" href="images/42-zhongwei-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img202" href="images/43-hohhot-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img203" href="images/43-inner-mongolia-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img204" href="images/43-inner-mongolia-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img205" href="images/44-qinghai-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img206" href="images/44-qinghai-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img207" href="images/44-xining-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img208" href="images/45-barkhor-area-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img209" href="images/45-lhasa-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img210" href="images/45-shigatse-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img211" href="images/45-tibet-chap-op-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img212" href="images/45-tibet-loc-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img213" href="images/47-1.jpg" media-type="image/jpeg"/>
+    <item id="img214" href="images/500pxRF_70859537.jpg" media-type="image/jpeg"/>
+    <item id="img215" href="images/500pxRF_79554383.jpg" media-type="image/jpeg"/>
+    <item id="img216" href="images/500pxRF_99637343.jpg" media-type="image/jpeg"/>
+    <item id="img217" href="images/56-sea-routes-chi16.jpg" media-type="image/jpeg"/>
+    <item id="img218" href="images/AF4CJA.jpg" media-type="image/jpeg"/>
+    <item id="img219" href="images/AlamyRF_BD2CD2.jpg" media-type="image/jpeg"/>
+    <item id="img220" href="images/AlamyRF_J6KJJ0.jpg" media-type="image/jpeg"/>
+    <item id="img221" href="images/arrow-red.gif" media-type="image/gif"/>
+    <item id="ref-imgicon-metro-gif" href="images/icon-metro.gif" media-type="image/gif"/>
+    <item id="img222" href="images/beijing-cc.jpg" media-type="image/jpeg"/>
+    <item id="img223" href="images/btn-amzn-kindle-ptnr.png" media-type="image/png"/>
+    <item id="img224" href="images/btn-apple-ptnr.png" media-type="image/png"/>
+    <item id="img225" href="images/btn-bn-ptnr.png" media-type="image/png"/>
+    <item id="img226" href="images/btn-google-ptnr.png" media-type="image/png"/>
+    <item id="img227" href="images/btn-lp-ptnr.png" media-type="image/png"/>
+    <item id="img228" href="images/bund-IH.jpg" media-type="image/jpeg"/>
+    <item id="img229" href="images/button-sampler.png" media-type="image/png"/>
+    <item id="img230" href="images/category-activities.gif" media-type="image/gif"/>
+    <item id="img231" href="images/category-beach.gif" media-type="image/gif"/>
+    <item id="img232" href="images/category-courses.gif" media-type="image/gif"/>
+    <item id="img233" href="images/category-drink.gif" media-type="image/gif"/>
+    <item id="img234" href="images/category-eat.gif" media-type="image/gif"/>
+    <item id="img235" href="images/category-entertain.gif" media-type="image/gif"/>
+    <item id="img236" href="images/category-festival.gif" media-type="image/gif"/>
+    <item id="img237" href="images/category-shop.gif" media-type="image/gif"/>
+    <item id="img238" href="images/category-sights.gif" media-type="image/gif"/>
+    <item id="img239" href="images/category-sleep.gif" media-type="image/gif"/>
+    <item id="img240" href="images/category-tour.gif" media-type="image/gif"/>
+    <item id="img241" href="images/changchun-cc.jpg" media-type="image/jpeg"/>
+    <item id="img242" href="images/changsha-cc.jpg" media-type="image/jpeg"/>
+    <item id="img243" href="images/chengdu-cc.jpg" media-type="image/jpeg"/>
+    <item id="img244" href="images/chongqing-cc.jpg" media-type="image/jpeg"/>
+    <item id="img245" href="images/christopher-pitts-2013-bw.jpg" media-type="image/jpeg"/>
+    <item id="img246" href="images/daisy-harper-2007-bw.jpg" media-type="image/jpeg"/>
+    <item id="img247" href="images/dalian-cc.jpg" media-type="image/jpeg"/>
+    <item id="img248" href="images/damian-harper-2011-BW.jpg" media-type="image/jpeg"/>
+    <item id="img249" href="images/damian-harper-2011-col.jpg" media-type="image/jpeg"/>
+    <item id="img250" href="images/daniel-mccrohan-2019-BW.jpg" media-type="image/jpeg"/>
+    <item id="img251" href="images/datong-cc.jpg" media-type="image/jpeg"/>
+    <item id="img252" href="images/empty.gif" media-type="image/gif"/>
+    <item id="img253" href="images/forbidden-city-IH.jpg" media-type="image/jpeg"/>
+    <item id="img254" href="images/GettyImages-1048014336.jpg" media-type="image/jpeg"/>
+    <item id="img255" href="images/GettyImages-106429512.jpg" media-type="image/jpeg"/>
+    <item id="img256" href="images/GettyImages-1087445152.jpg" media-type="image/jpeg"/>
+    <item id="img257" href="images/GettyImages-1134204862.jpg" media-type="image/jpeg"/>
+    <item id="img258" href="images/GettyImages-1157412947.jpg" media-type="image/jpeg"/>
+    <item id="img259" href="images/GettyImages-1166695984.jpg" media-type="image/jpeg"/>
+    <item id="img260" href="images/GettyImages-1170778321.jpg" media-type="image/jpeg"/>
+    <item id="img261" href="images/GettyImages-1188397359.jpg" media-type="image/jpeg"/>
+    <item id="img262" href="images/GettyImages-1197050400.jpg" media-type="image/jpeg"/>
+    <item id="img263" href="images/GettyImages-125262488.jpg" media-type="image/jpeg"/>
+    <item id="img264" href="images/GettyImages-141839303.jpg" media-type="image/jpeg"/>
+    <item id="img265" href="images/GettyImages-142840672.jpg" media-type="image/jpeg"/>
+    <item id="img266" href="images/GettyImages-148073977.jpg" media-type="image/jpeg"/>
+    <item id="img267" href="images/GettyImages-504904750.jpg" media-type="image/jpeg"/>
+    <item id="img268" href="images/GettyImages-521860128.jpg" media-type="image/jpeg"/>
+    <item id="img269" href="images/GettyImages-523047811.jpg" media-type="image/jpeg"/>
+    <item id="img270" href="images/GettyImages-523410933.jpg" media-type="image/jpeg"/>
+    <item id="img271" href="images/GettyImages-577594873.jpg" media-type="image/jpeg"/>
+    <item id="img273" href="images/GettyImages-613707496.jpg" media-type="image/jpeg"/>
+    <item id="img274" href="images/GettyImages-637045304.jpg" media-type="image/jpeg"/>
+    <item id="img275" href="images/GettyImages-641131058.jpg" media-type="image/jpeg"/>
+    <item id="img276" href="images/GettyImages-641938640.jpg" media-type="image/jpeg"/>
+    <item id="img277" href="images/GettyImages-659119225.jpg" media-type="image/jpeg"/>
+    <item id="img278" href="images/GettyImages-693378324.jpg" media-type="image/jpeg"/>
+    <item id="img279" href="images/GettyRF_1063159776.jpg" media-type="image/jpeg"/>
+    <item id="img280" href="images/GettyRF_121130978.jpg" media-type="image/jpeg"/>
+    <item id="img281" href="images/GettyRF_133376753.jpg" media-type="image/jpeg"/>
+    <item id="img282" href="images/GettyRF_150059171.jpg" media-type="image/jpeg"/>
+    <item id="img283" href="images/GettyRF_157572526.jpg" media-type="image/jpeg"/>
+    <item id="img284" href="images/GettyRF_175483573.jpg" media-type="image/jpeg"/>
+    <item id="img285" href="images/GettyRF_468819549.jpg" media-type="image/jpeg"/>
+    <item id="img286" href="images/GettyRF_534599618.jpg" media-type="image/jpeg"/>
+    <item id="img287" href="images/GettyRF_556850835.jpg" media-type="image/jpeg"/>
+    <item id="img288" href="images/GettyRF_609860980.jpg" media-type="image/jpeg"/>
+    <item id="img289" href="images/GettyRF_672162141.jpg" media-type="image/jpeg"/>
+    <item id="img290" href="images/GettyRF_898910916.jpg" media-type="image/jpeg"/>
+    <item id="img291" href="images/grey-info.gif" media-type="image/gif"/>
+    <item id="img292" href="images/guangzhou-cc.jpg" media-type="image/jpeg"/>
+    <item id="img293" href="images/guilin-cc.jpg" media-type="image/jpeg"/>
+    <item id="img294" href="images/guiyang-cc.jpg" media-type="image/jpeg"/>
+    <item id="img295" href="images/hangzhou-cc.jpg" media-type="image/jpeg"/>
+    <item id="img296" href="images/harbin-cc.jpg" media-type="image/jpeg"/>
+    <item id="img297" href="images/hohhot-cc.jpg" media-type="image/jpeg"/>
+    <item id="img298" href="images/hongkong-cc.jpg" media-type="image/jpeg"/>
+    <item id="img299" href="images/how-to-use-this-ebook.gif" media-type="image/gif"/>
+    <item id="img300" href="images/icon-acon.gif" media-type="image/gif"/>
+    <item id="img301" href="images/icon-boat.gif" media-type="image/gif"/>
+    <item id="img302" href="images/icon-bus.gif" media-type="image/gif"/>
+    <item id="img303" href="images/icon-family.gif" media-type="image/gif"/>
+    <item id="img304" href="images/icon-free.gif" media-type="image/gif"/>
+    <item id="img305" href="images/icon-hours.gif" media-type="image/gif"/>
+    <item id="img306" href="images/icon-internet.gif" media-type="image/gif"/>
+    <item id="img307" href="images/icon-monorail.gif" media-type="image/gif"/>
+    <item id="img308" href="images/icon-non-smoking.gif" media-type="image/gif"/>
+    <item id="img309" href="images/icon-park.gif" media-type="image/gif"/>
+    <item id="img310" href="images/icon-pet.gif" media-type="image/gif"/>
+    <item id="img311" href="images/icon-phone.gif" media-type="image/gif"/>
+    <item id="img312" href="images/icon-subway.gif" media-type="image/gif"/>
+    <item id="img313" href="images/icon-sustainable.gif" media-type="image/gif"/>
+    <item id="img314" href="images/icon-swim.gif" media-type="image/gif"/>
+    <item id="img315" href="images/icon-top-choice.gif" media-type="image/gif"/>
+    <item id="img316" href="images/icon-train.gif" media-type="image/gif"/>
+    <item id="img317" href="images/icon-tram.gif" media-type="image/gif"/>
+    <item id="img318" href="images/icon-veg.gif" media-type="image/gif"/>
+    <item id="img319" href="images/icon-wifi.gif" media-type="image/gif"/>
+    <item id="img320" href="images/info.gif" media-type="image/gif"/>
+    <item id="img321" href="images/insta.jpg" media-type="image/jpeg"/>
+    <item id="img322" href="images/jade-bremner-2018-BW.jpg" media-type="image/jpeg"/>
+    <item id="img323" href="images/kate-chapman-2019-BW.jpg" media-type="image/jpeg"/>
+    <item id="img324" href="images/key-activity.gif" media-type="image/gif"/>
+    <item id="img325" href="images/key-drink.gif" media-type="image/gif"/>
+    <item id="img326" href="images/key-eat.gif" media-type="image/gif"/>
+    <item id="img327" href="images/key-entertain.gif" media-type="image/gif"/>
+    <item id="img328" href="images/key-info.gif" media-type="image/gif"/>
+    <item id="img329" href="images/key-shop.gif" media-type="image/gif"/>
+    <item id="img330" href="images/key-sights.gif" media-type="image/gif"/>
+    <item id="img331" href="images/key-sleep.gif" media-type="image/gif"/>
+    <item id="img332" href="images/kunming-cc.jpg" media-type="image/jpeg"/>
+    <item id="img333" href="images/lanzhou-cc.jpg" media-type="image/jpeg"/>
+    <item id="img334" href="images/lhasa-cc.jpg" media-type="image/jpeg"/>
+    <item id="img335" href="images/lorna-parkes-2017-BW.jpg" media-type="image/jpeg"/>
+    <item id="img336" href="images/lp-logo.png" media-type="image/png"/>
+    <item id="img337" href="images/LPI-25628-160.jpg" media-type="image/jpeg"/>
+    <item id="img338" href="images/LPT0711_039.jpg" media-type="image/jpeg"/>
+    <item id="img339" href="images/LPT0711_054.jpg" media-type="image/jpeg"/>
+    <item id="img340" href="images/LPT0711_055.jpg" media-type="image/jpeg"/>
+    <item id="img342" href="images/LPT1217_091.jpg" media-type="image/jpeg"/>
+    <item id="img343" href="images/macau-cc.jpg" media-type="image/jpeg"/>
+    <item id="img344" href="images/mandarin-5-phrases.jpg" media-type="image/jpeg"/>
+    <item id="img345" href="images/map-legend.jpg" media-type="image/jpeg"/>
+    <item id="img346" href="images/megan-eaves-2019-BW.jpg" media-type="image/jpeg"/>
+    <item id="img347" href="images/nanchang-cc.jpg" media-type="image/jpeg"/>
+    <item id="img348" href="images/nanjing-cc.jpg" media-type="image/jpeg"/>
+    <item id="img349" href="images/P492CT.jpg" media-type="image/jpeg"/>
+    <item id="img350" href="images/phillip-tang2015-bw.jpg" media-type="image/jpeg"/>
+    <item id="img351" href="images/piera-chen-2012-bw.jpg" media-type="image/jpeg"/>
+    <item id="img352" href="images/Qingdao-cc.jpg" media-type="image/jpeg"/>
+    <item id="img353" href="images/sampler.png" media-type="image/png"/>
+    <item id="img354" href="images/sanya-cc.jpg" media-type="image/jpeg"/>
+    <item id="img355" href="images/shanghai-cc.jpg" media-type="image/jpeg"/>
+    <item id="img356" href="images/shutterstockRF_135444434.jpg" media-type="image/jpeg"/>
+    <item id="img357" href="images/shutterstockRF_1440890144.jpg" media-type="image/jpeg"/>
+    <item id="img358" href="images/shutterstockRF_1441854290.jpg" media-type="image/jpeg"/>
+    <item id="img359" href="images/shutterstockRF_1442442200.jpg" media-type="image/jpeg"/>
+    <item id="img360" href="images/shutterstockRF_1475278178.jpg" media-type="image/jpeg"/>
+    <item id="img361" href="images/shutterstockRF_1508189648.jpg" media-type="image/jpeg"/>
+    <item id="img362" href="images/shutterstockRF_1535713028.jpg" media-type="image/jpeg"/>
+    <item id="img363" href="images/shutterstockRF_1644731014.jpg" media-type="image/jpeg"/>
+    <item id="img364" href="images/shutterstockRF_166959008.jpg" media-type="image/jpeg"/>
+    <item id="img365" href="images/shutterstockRF_179184620.jpg" media-type="image/jpeg"/>
+    <item id="img367" href="images/shutterstockRF_214399000.jpg" media-type="image/jpeg"/>
+    <item id="img368" href="images/shutterstockRF_281727887.jpg" media-type="image/jpeg"/>
+    <item id="img369" href="images/shutterstockRF_285888404.jpg" media-type="image/jpeg"/>
+    <item id="img370" href="images/shutterstockRF_311255771.jpg" media-type="image/jpeg"/>
+    <item id="img371" href="images/shutterstockRF_324673247.jpg" media-type="image/jpeg"/>
+    <item id="img372" href="images/shutterstockRF_324699287.jpg" media-type="image/jpeg"/>
+    <item id="img374" href="images/shutterstockRF_361149056.jpg" media-type="image/jpeg"/>
+    <item id="img375" href="images/shutterstockRF_419212690.jpg" media-type="image/jpeg"/>
+    <item id="img376" href="images/shutterstockRF_449250082.jpg" media-type="image/jpeg"/>
+    <item id="img377" href="images/shutterstockRF_485906305.jpg" media-type="image/jpeg"/>
+    <item id="img378" href="images/shutterstockRF_492447661.jpg" media-type="image/jpeg"/>
+    <item id="img379" href="images/shutterstockRF_494175772.jpg" media-type="image/jpeg"/>
+    <item id="img380" href="images/shutterstockRF_694206856.jpg" media-type="image/jpeg"/>
+    <item id="img381" href="images/shutterstock_1268761633.jpg" media-type="image/jpeg"/>
+    <item id="img382" href="images/shutterstock_1365891752.jpg" media-type="image/jpeg"/>
+    <item id="img383" href="images/shutterstock_1377472736.jpg" media-type="image/jpeg"/>
+    <item id="img384" href="images/shutterstock_1571615899.jpg" media-type="image/jpeg"/>
+    <item id="img385" href="images/shutterstock_1593484438.jpg" media-type="image/jpeg"/>
+    <item id="img386" href="images/shutterstock_1627052683.jpg" media-type="image/jpeg"/>
+    <item id="img387" href="images/shutterstock_1633556869.jpg" media-type="image/jpeg"/>
+    <item id="img388" href="images/shutterstock_1639033489.jpg" media-type="image/jpeg"/>
+    <item id="img389" href="images/shutterstock_182702507.jpg" media-type="image/jpeg"/>
+    <item id="img390" href="images/shutterstock_183744893.jpg" media-type="image/jpeg"/>
+    <item id="img391" href="images/shutterstock_239277523.jpg" media-type="image/jpeg"/>
+    <item id="img392" href="images/shutterstock_246317110.jpg" media-type="image/jpeg"/>
+    <item id="img393" href="images/shutterstock_272954540.jpg" media-type="image/jpeg"/>
+    <item id="img394" href="images/shutterstock_698295835.jpg" media-type="image/jpeg"/>
+    <item id="img395" href="images/shutterstock_8639200.jpg" media-type="image/jpeg"/>
+    <item id="img396" href="images/stephen-lioy-2017-BW.jpg" media-type="image/jpeg"/>
+    <item id="img397" href="images/stuart-butler-2012-bw.jpg" media-type="image/jpeg"/>
+    <item id="img398" href="images/t-m-wheeler.jpg" media-type="image/jpeg"/>
+    <item id="img399" href="images/tess-humphrys-2019-BW.jpg" media-type="image/jpeg"/>
+    <item id="img400" href="images/tianjin-cc.jpg" media-type="image/jpeg"/>
+    <item id="img401" href="images/tom-omalley-2017-BW.jpg" media-type="image/jpeg"/>
+    <item id="img402" href="images/tom-spurling-2011-bw.jpg" media-type="image/jpeg"/>
+    <item id="img403" href="images/trent-holden-2012-bw.jpg" media-type="image/jpeg"/>
+    <item id="img404" href="images/tunxi-cc.jpg" media-type="image/jpeg"/>
+    <item id="img405" href="images/type-a_f-2C.jpg" media-type="image/jpeg"/>
+    <item id="img406" href="images/type-i-2C.jpg" media-type="image/jpeg"/>
+    <item id="img407" href="images/urumqi-cc.jpg" media-type="image/jpeg"/>
+    <item id="img408" href="images/vesna-maric-2019-BW.jpg" media-type="image/jpeg"/>
+    <item id="img409" href="images/wuhan-cc.jpg" media-type="image/jpeg"/>
+    <item id="img410" href="images/xiamen-cc.jpg" media-type="image/jpeg"/>
+    <item id="img411" href="images/xian-cc.jpg" media-type="image/jpeg"/>
+    <item id="img412" href="images/xining-cc.jpg" media-type="image/jpeg"/>
+    <item id="img413" href="images/xpromo-top-generic.png" media-type="image/png"/>
+    <item id="img414" href="images/yinchuan-cc.jpg" media-type="image/jpeg"/>
+    <item id="img415" href="images/zhengzhou-cc.jpg" media-type="image/jpeg"/>
+    <item id="img416" href="images/category-calender.gif" media-type="image/gif"/>
+  </manifest>
+  <spine toc="ncx" xmlns="http://www.idpf.org/2007/opf">
+    <itemref idref="ref-00-cover"/>
+    <itemref idref="ref-00a-inside-front-cover"/>
+    <itemref idref="ref-00b-how-to-use-this-ebook"/>
+    <itemref idref="ref-00c-sampler"/>
+    <itemref idref="ref-00d-country-map"/>
+    <itemref idref="ref-00d-table-of-contents"/>
+    <itemref idref="ref-ebook-01-welcome-to-chi16"/>
+    <itemref idref="ref-ebook-02-top-experiences-chi16"/>
+    <itemref idref="ref-ebook-03-need-to-know-chi16"/>
+    <itemref idref="ref-ebook-04-first-time-chi16"/>
+    <itemref idref="ref-ebook-05-month-by-month-chi16"/>
+    <itemref idref="ref-ebook-06-itineraries-chi16"/>
+    <itemref idref="ref-ebook-07-family-travel-chi16"/>
+    <itemref idref="ref-ebook-08-eat-drink-like-a-local-chi16"/>
+    <itemref idref="ref-ebook-09-regions-at-a-glance-chi16"/>
+    <itemref idref="ref-ebook-11-beijing-chi16"/>
+    <itemref idref="ref-ebook-11-beijing-chi16_a"/>
+    <itemref idref="ref-ebook-12-the-great-wall-chi16"/>
+    <itemref idref="ref-ebook-13-tianjin-hebei-chi16"/>
+    <itemref idref="ref-ebook-14-liaoning-chi16"/>
+    <itemref idref="ref-ebook-15-jilin-chi16"/>
+    <itemref idref="ref-ebook-16-heilongjiang-chi16"/>
+    <itemref idref="ref-ebook-17-shandong-chi16"/>
+    <itemref idref="ref-ebook-17-shandong-chi16_a"/>
+    <itemref idref="ref-ebook-18-jiangsu-chi16"/>
+    <itemref idref="ref-ebook-19-shanghai-chi16"/>
+    <itemref idref="ref-ebook-19-shanghai-chi16_a"/>
+    <itemref idref="ref-ebook-19a-essential-china-chi16"/>
+    <itemref idref="ref-ebook-20-zhejiang-chi16"/>
+    <itemref idref="ref-ebook-21-fujian-chi16"/>
+    <itemref idref="ref-ebook-22-shanxi-chi16"/>
+    <itemref idref="ref-ebook-23-shaanxi-chi16"/>
+    <itemref idref="ref-ebook-24-anhui-chi16"/>
+    <itemref idref="ref-ebook-25-henan-chi16"/>
+    <itemref idref="ref-ebook-26-hubei-chi16"/>
+    <itemref idref="ref-ebook-27-jiangxi-chi16"/>
+    <itemref idref="ref-ebook-28-hunan-chi16"/>
+    <itemref idref="ref-ebook-29-hong-kong-chi16"/>
+    <itemref idref="ref-ebook-29-hong-kong-chi16_a"/>
+    <itemref idref="ref-ebook-30-macau-chi16"/>
+    <itemref idref="ref-ebook-31-guangdong-chi16"/>
+    <itemref idref="ref-ebook-31-guangdong-chi16_a"/>
+    <itemref idref="ref-ebook-32-hainan-chi16"/>
+    <itemref idref="ref-ebook-33-guangxi-chi16"/>
+    <itemref idref="ref-ebook-34-guizhou-chi16"/>
+    <itemref idref="ref-ebook-35-yunnan-chi16"/>
+    <itemref idref="ref-ebook-35-yunnan-chi16_a"/>
+    <itemref idref="ref-ebook-36-sichuan-chi16"/>
+    <itemref idref="ref-ebook-36-sichuan-chi16_a"/>
+    <itemref idref="ref-ebook-37-chongqing-chi16"/>
+    <itemref idref="ref-ebook-37a-cruising-the-yangzi-chi16"/>
+    <itemref idref="ref-ebook-38-xinjiang-chi16"/>
+    <itemref idref="ref-ebook-39-gansu-chi16"/>
+    <itemref idref="ref-ebook-40-ningxia-chi16"/>
+    <itemref idref="ref-ebook-41-inner-mongolia-chi16"/>
+    <itemref idref="ref-ebook-42-qinghai-chi16"/>
+    <itemref idref="ref-ebook-43-tibet-chi16"/>
+    <itemref idref="ref-ebook-44-understand-title-chi16"/>
+    <itemref idref="ref-ebook-45-history-chi16"/>
+    <itemref idref="ref-ebook-46-people-of-chi16"/>
+    <itemref idref="ref-ebook-47-religion-philosophy-chi16"/>
+    <itemref idref="ref-ebook-48-arts-architecture-chi16"/>
+    <itemref idref="ref-ebook-49-landscapes-chi16"/>
+    <itemref idref="ref-ebook-50-martial-arts-chi16"/>
+    <itemref idref="ref-ebook-52-directory-chi16"/>
+    <itemref idref="ref-ebook-53-transport-chi16"/>
+    <itemref idref="ref-ebook-54-china-by-train-chi16"/>
+    <itemref idref="ref-ebook-55-health-chi16"/>
+    <itemref idref="ref-ebook-56-language-chi16"/>
+    <itemref idref="ref-ebook-57-bts-chi16"/>
+    <itemref idref="ref-ebook-59-our-writers-chi16"/>
+    <itemref idref="ref-zzb-map-legend"/>
+    <itemref idref="ref-zza-generic-cross-sell"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="00d-table-of-contents.xhtml"/>
+  </guide>
+</package>

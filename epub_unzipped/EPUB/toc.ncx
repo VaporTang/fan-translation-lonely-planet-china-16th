@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="lonely-planet-china-16th"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text default-translate="no">孤独星球中国 - Lonely Planet China</text></docTitle>
+	<navMap>
+		<navPoint class="chapter" id="nav-1" playOrder="1">
+			<navLabel><text default-translate="no">目录 - Table of Contents</text></navLabel>
+			<content src="00d-table-of-contents.xhtml"/>
+		</navPoint>
+		<navPoint class="chapter" id="nav-2" playOrder="2">
+			<navLabel><text default-translate="no">欢迎来到中国 - Welcome to China</text></navLabel>
+			<content src="ebook-01-welcome-to-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-3" playOrder="3">
+			<navLabel><text default-translate="no">顶级体验 - Top Experiences</text></navLabel>
+			<content src="ebook-02-top-experiences-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-4" playOrder="4">
+			<navLabel><text default-translate="no">需要知道 - Need to Know</text></navLabel>
+			<content src="ebook-03-need-to-know-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-5" playOrder="5">
+			<navLabel><text default-translate="no">首次中国 - First Time China</text></navLabel>
+			<content src="ebook-04-first-time-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-6" playOrder="6">
+			<navLabel><text default-translate="no">逐月出版 - Month by Month</text></navLabel>
+			<content src="ebook-05-month-by-month-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-7" playOrder="7">
+			<navLabel><text default-translate="no">行程 - Itineraries</text></navLabel>
+			<content src="ebook-06-itineraries-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-8" playOrder="8">
+			<navLabel><text default-translate="no">家庭旅行 - Family Travel</text></navLabel>
+			<content src="ebook-07-family-travel-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-9" playOrder="9">
+			<navLabel><text default-translate="no">像当地人一样吃喝 - Eat &amp; Drink Like a Local</text></navLabel>
+			<content src="ebook-08-eat-drink-like-a-local-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-10" playOrder="10">
+			<navLabel><text default-translate="no">地区一览 - Regions at a Glance</text></navLabel>
+			<content src="ebook-09-regions-at-a-glance-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-11" playOrder="11">
+			<navLabel><text default-translate="no">北京 - Beijing</text></navLabel>
+			<content src="ebook-11-beijing-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-12" playOrder="12">
+			<navLabel><text default-translate="no">长城 - The Great Wall</text></navLabel>
+			<content src="ebook-12-the-great-wall-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-13" playOrder="13">
+			<navLabel><text default-translate="no">天津和河北 - Tianjin &amp; Hebei</text></navLabel>
+			<content src="ebook-13-tianjin-hebei-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-14" playOrder="14">
+			<navLabel><text default-translate="no">辽宁 - Liaoning</text></navLabel>
+			<content src="ebook-14-liaoning-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-15" playOrder="15">
+			<navLabel><text default-translate="no">吉林 - Jilin</text></navLabel>
+			<content src="ebook-15-jilin-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-16" playOrder="16">
+			<navLabel><text default-translate="no">黑龙江 - Heilongjiang</text></navLabel>
+			<content src="ebook-16-heilongjiang-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-17" playOrder="17">
+			<navLabel><text default-translate="no">山东 - Shandong</text></navLabel>
+			<content src="ebook-17-shandong-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-18" playOrder="18">
+			<navLabel><text default-translate="no">江苏 - Jiangsu</text></navLabel>
+			<content src="ebook-18-jiangsu-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-19" playOrder="19">
+			<navLabel><text default-translate="no">上海 - Shanghai</text></navLabel>
+			<content src="ebook-19-shanghai-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-20" playOrder="20">
+			<navLabel><text default-translate="no">浙江 - Zhejiang</text></navLabel>
+			<content src="ebook-20-zhejiang-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-21" playOrder="21">
+			<navLabel><text default-translate="no">福建 - Fujian</text></navLabel>
+			<content src="ebook-21-fujian-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-22" playOrder="22">
+			<navLabel><text default-translate="no">山西 - Shanxi</text></navLabel>
+			<content src="ebook-22-shanxi-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-23" playOrder="23">
+			<navLabel><text default-translate="no">陕西 - Shaanxi</text></navLabel>
+			<content src="ebook-23-shaanxi-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-24" playOrder="24">
+			<navLabel><text default-translate="no">安徽 - Anhui</text></navLabel>
+			<content src="ebook-24-anhui-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-25" playOrder="25">
+			<navLabel><text default-translate="no">河南 - Henan</text></navLabel>
+			<content src="ebook-25-henan-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-26" playOrder="26">
+			<navLabel><text default-translate="no">湖北 - Hubei</text></navLabel>
+			<content src="ebook-26-hubei-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-27" playOrder="27">
+			<navLabel><text default-translate="no">江西 - Jiangxi</text></navLabel>
+			<content src="ebook-27-jiangxi-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-28" playOrder="28">
+			<navLabel><text default-translate="no">湖南 - Hunan</text></navLabel>
+			<content src="ebook-28-hunan-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-29" playOrder="29">
+			<navLabel><text default-translate="no">香港 - Hong Kong</text></navLabel>
+			<content src="ebook-29-hong-kong-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-30" playOrder="30">
+			<navLabel><text default-translate="no">澳门 - Macau</text></navLabel>
+			<content src="ebook-30-macau-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-31" playOrder="31">
+			<navLabel><text default-translate="no">广东 - Guangdong</text></navLabel>
+			<content src="ebook-31-guangdong-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-32" playOrder="32">
+			<navLabel><text default-translate="no">海南 - Hainan</text></navLabel>
+			<content src="ebook-32-hainan-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-33" playOrder="33">
+			<navLabel><text default-translate="no">广西 - Guangxi</text></navLabel>
+			<content src="ebook-33-guangxi-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-34" playOrder="34">
+			<navLabel><text default-translate="no">贵州 - Guizhou</text></navLabel>
+			<content src="ebook-34-guizhou-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-35" playOrder="35">
+			<navLabel><text default-translate="no">云南 - Yunnan</text></navLabel>
+			<content src="ebook-35-yunnan-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-36" playOrder="36">
+			<navLabel><text default-translate="no">四川 - Sichuan</text></navLabel>
+			<content src="ebook-36-sichuan-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-37" playOrder="37">
+			<navLabel><text default-translate="no">重庆 - Chongqing</text></navLabel>
+			<content src="ebook-37-chongqing-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-38" playOrder="38">
+			<navLabel><text default-translate="no">新疆 - Xinjiang</text></navLabel>
+			<content src="ebook-38-xinjiang-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-39" playOrder="39">
+			<navLabel><text default-translate="no">甘肃 - Gansu</text></navLabel>
+			<content src="ebook-39-gansu-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-40" playOrder="40">
+			<navLabel><text default-translate="no">宁夏 - Ningxia</text></navLabel>
+			<content src="ebook-40-ningxia-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-41" playOrder="41">
+			<navLabel><text default-translate="no">内蒙古 - Inner Mongolia</text></navLabel>
+			<content src="ebook-41-inner-mongolia-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-42" playOrder="42">
+			<navLabel><text default-translate="no">青海 - Qinghai</text></navLabel>
+			<content src="ebook-42-qinghai-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-43" playOrder="43">
+			<navLabel><text default-translate="no">西藏 - Tibet</text></navLabel>
+			<content src="ebook-43-tibet-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-44" playOrder="44">
+			<navLabel><text default-translate="no">了解中国 - Understand China</text></navLabel>
+			<content src="ebook-44-understand-title-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-45" playOrder="45">
+			<navLabel><text default-translate="no">历史 - History</text></navLabel>
+			<content src="ebook-45-history-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-46" playOrder="46">
+			<navLabel><text default-translate="no">中国人民 - People of China</text></navLabel>
+			<content src="ebook-46-people-of-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-47" playOrder="47">
+			<navLabel><text default-translate="no">宗教与哲学 - Religion &amp; Philosophy</text></navLabel>
+			<content src="ebook-47-religion-philosophy-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-48" playOrder="48">
+			<navLabel><text default-translate="no">艺术与建筑 - Arts &amp; Architecture</text></navLabel>
+			<content src="ebook-48-arts-architecture-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-49" playOrder="49">
+			<navLabel><text default-translate="no">中国的风景 - China’s Landscapes</text></navLabel>
+			<content src="ebook-49-landscapes-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-50" playOrder="50">
+			<navLabel><text default-translate="no">中国武术 - Martial Arts of China</text></navLabel>
+			<content src="ebook-50-martial-arts-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-51" playOrder="51">
+			<navLabel><text default-translate="no">目录 A–Z - Directory A–Z</text></navLabel>
+			<content src="ebook-52-directory-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-52" playOrder="52">
+			<navLabel><text default-translate="no">运输 - Transport</text></navLabel>
+			<content src="ebook-53-transport-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-53" playOrder="53">
+			<navLabel><text default-translate="no">乘火车前往中国 - China by Train</text></navLabel>
+			<content src="ebook-54-china-by-train-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-54" playOrder="54">
+			<navLabel><text default-translate="no">健康 - Health</text></navLabel>
+			<content src="ebook-55-health-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-55" playOrder="55">
+			<navLabel><text default-translate="no">语言 - Language</text></navLabel>
+			<content src="ebook-56-language-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-56" playOrder="56">
+			<navLabel><text default-translate="no">幕后花样 - Behind the Scenes</text></navLabel>
+			<content src="ebook-57-bts-chi16.xhtml"/>
+		</navPoint>
+
+		<navPoint class="chapter" id="nav-57" playOrder="57">
+			<navLabel><text default-translate="no">我们的作家 - Our Writers</text></navLabel>
+			<content src="ebook-59-our-writers-chi16.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
